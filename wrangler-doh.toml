@@ -1,0 +1,11 @@
+name = "api-gateway"
+main = "doh.js"
+compatibility_date = "2025-11-04"
+
+[[kv_namespaces]]
+binding = "RECENT_KV"
+id = "9f5854d369ef4602aaa39a029e9a7157"
+
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+dataset = "doh_qps"
